@@ -1,12 +1,4 @@
 ## I'm Noob
-
-### 📊 GitHub Stats
-
-| GitHub Stats | Streak Stats |
-|--------------|--------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CedBentuzal&show_icons=true&theme=radical) |![GitHub Streak](https://streak-stats.demolab.com/?user=CedBentuzal&theme=radical) |
-
-
 ### 🌍 Top Languages
 
 | Languages Stats | Description |
