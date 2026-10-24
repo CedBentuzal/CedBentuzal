@@ -1,11 +1,17 @@
-## Hi
-### 🌍 Top Languages
+Ced Bentuzal
 
-| Languages Stats | Description |
-|-----------------|-------------|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CedBentuzal&layout=compact&theme=radical) | Learning! |
+CS student at USTP · Motion designer · Building apps with Flutter
 
+<br>
 
+Now — building local-events-map, a map-first app for finding local events
 
+Stack — Flutter · Dart · Node.js · Express · PostgreSQL · PostGIS
+
+Also — After Effects · Illustrator · Godot
+
+<br>
+
+Email · LinkedIn · Portfolio
 
 
